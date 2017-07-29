@@ -16,3 +16,12 @@ body {
 .theme-showcase .navbar .container {
     width: auto;
 }
+
+#map_wrapper {
+    height: 300px;
+}
+
+#map_canvas {
+    width: 100%;
+    height: 100%;
+}
