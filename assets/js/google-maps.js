@@ -18,23 +18,32 @@ function initialize() {
 
     // Multiple Markers
     var markers = [
+        ['Kostol v dedinke Michalová', 48.763030, 19.778749],
+        ['Salaš Zbosjká', 48.745286, 19.857803],
         ['Chata Zbojská', 48.751666, 19.847245],
-        ['V sedle u Falťanov', 48.745176, 19.855998],
-        ['Salaš Zbosjká', 48.745286, 19.857803]
+        ['V sedle u Falťanov', 48.745176, 19.855998]
     ];
 
     // Info Window Content
     var infoWindowContent = [
         ['<div class="info_content">' +
-        '<h3>Chata Zbojská</h3>' +
-        '<p>http://chatazbojska.sk</p>' + '</div>'],
-        ['<div class="info_content">' +
-        '<h3>V sedle u Falťanov</h3>' +
-        '<p>http://www.vsedleufaltanov.sk/</p>' +
+        '<h3>Kostol v dedinke Michalová</h3>' +
+        '<p>Tu sa bude konať svadobný obrad!</p>' +
         '</div>'],
         ['<div class="info_content">' +
         '<h3>Salaš Zbojská</h3>' +
+        '<p>Tu budeme oslavovať aj spať po veselici :)</p>' +
         '<p>http://www.zbojska.sk/</p>' +
+        '</div>'],
+        ['<div class="info_content">' +
+        '<h3>Chata Zbojská</h3>' +
+        '<p>Tu budeme spať po veselici!</p>' +
+        '<p>http://chatazbojska.sk</p>' +
+        '</div>'],
+        ['<div class="info_content">' +
+        '<h3>V sedle u Falťanov</h3>' +
+        '<p>Tu budeme spať po veselici!</p>' +
+        '<p>http://www.vsedleufaltanov.sk/</p>' +
         '</div>']
     ];
 
