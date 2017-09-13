@@ -31,7 +31,7 @@ function initialize() {
         '<p>Tu sa bude konať svadobný obrad!</p>' +
         '</div>'],
         ['<div class="info_content">' +
-        '<h3>Salaš Zbojská</h3>' +
+        '<h3>Halaš Zbojská</h3>' +
         '<p>Tu budeme oslavovať aj spať po veselici :)</p>' +
         '<p>http://www.zbojska.sk/</p>' +
         '</div>'],
