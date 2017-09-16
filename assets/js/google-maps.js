@@ -19,7 +19,7 @@ function initialize() {
     // Multiple Markers
     var markers = [
         ['Kostol v dedinke Michalová', 48.763030, 19.778749],
-        ['Salaš Zbosjká', 48.745286, 19.857803],
+        ['Halaš Zbojská', 48.745286, 19.857803],
         ['Chata Zbojská', 48.751666, 19.847245],
         ['V sedle u Falťanov', 48.745176, 19.855998]
     ];
